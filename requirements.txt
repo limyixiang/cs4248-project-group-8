@@ -1,0 +1,19 @@
+# Core data and ML dependencies
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Clustering and dimensionality reduction
+hdbscan
+umap-learn
+
+# Hugging Face ecosystem
+transformers
+datasets
+accelerate
+sentence-transformers
+
+# Deep learning backend
+torch

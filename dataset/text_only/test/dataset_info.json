@@ -1,0 +1,52 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "csv",
+  "dataset_size": 6862937,
+  "description": "",
+  "download_checksums": {
+    "C:/repos/cs4248-tutorials/project/dataset/train.csv": {
+      "num_bytes": 4642628,
+      "checksum": null
+    },
+    "C:/repos/cs4248-tutorials/project/dataset/test.csv": {
+      "num_bytes": 474043,
+      "checksum": null
+    }
+  },
+  "download_size": 5116671,
+  "features": {
+    "textID": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "large_string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 11979608,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 6101686,
+      "num_examples": 27481,
+      "dataset_name": "csv"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 761251,
+      "num_examples": 4815,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

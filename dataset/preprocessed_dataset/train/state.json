@@ -1,0 +1,17 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001.arrow"
+    }
+  ],
+  "_fingerprint": "b777a6ac4543a952",
+  "_format_columns": [
+    "textID",
+    "text",
+    "sentiment"
+  ],
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": "train"
+}
