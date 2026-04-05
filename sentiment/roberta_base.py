@@ -137,7 +137,7 @@ trainer.train()
 
 trainer.evaluate()
 
-trainer.save_model("./models/bert_base_uncased")
+trainer.save_model("./models/roberta_base")
 
 # Conduct testing on the test dataset
 test_results = trainer.predict(test_dataset)
