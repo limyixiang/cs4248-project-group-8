@@ -15,5 +15,9 @@ datasets
 accelerate
 sentence-transformers
 
+# NLP preprocessing
+nltk
+gensim
+
 # Deep learning backend
 torch
